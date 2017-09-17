@@ -47,13 +47,13 @@ $(document).ready(function(){
 
     // post_data for email
     function post_data(contents){
-		var json = JSON.parse(contents);
-		console.log(json);
-        console.log("json sent: " + json);
+	
+		console.log(contents);
+        console.log("json sent: " + contents);
         $.ajax({
             type:"post",
             url:"/email.js",
-            data:json,
+            data:contents,
             success: function(data){
                 response_handler(data);
             }
