@@ -1,0 +1,71 @@
+
+
+@media(max-width: 880px){
+  .exp_descript{
+    flex-direction: column;
+  }
+  .loc_date_exp, .job_description{
+    width: 100%;
+  }
+  #about{
+    flex-direction: column;
+  }
+  .languages{
+    flex-direction: column;
+  }
+}
+
+@media(max-width:580px){
+  footer .flex_horizontal{
+    flex-direction: column;
+  }
+}
+
+@media(max-width:400px){
+  
+    li{
+      min-width:200px;
+      font-size:12px;
+    }
+
+    p{
+      font-size:12px;
+    }
+
+    h1{
+      font-size:20px;
+    }
+
+    h2{
+      font-size:18px;
+    }
+
+    h3{
+      font-size:16px;
+    }
+
+    .container{
+      padding-top:5px;
+      padding-bottom: 5px;
+      margin-bottom: 5px;
+      margin-top:5px;
+    }
+    .sub_title{
+      font-size:12px;
+      padding-bottom: 5px;
+      margin-bottom: 5px;
+    }
+    .center_img{
+      display: block;
+      margin:auto;
+      width: 200px;
+      height: 200px;
+    }
+  }
+  @media(max-width:300px){
+    .center_img{
+      margin:auto;
+       width:150px;
+       height:150px;
+    }
+  }

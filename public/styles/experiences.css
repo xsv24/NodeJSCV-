@@ -1,0 +1,28 @@
+.exp_descript h2{
+    margin: 0px;
+    padding: 0px;
+  }
+  .exp_descript{
+    padding-bottom:30px;
+    margin-bottom:30px;
+	display: flex;
+    border-bottom: thin solid #C7C9C9;
+  }
+  .exp_descript p{
+	white-space: pre-wrap;
+  }
+  .loc_date_exp h3{
+    margin: 0px;
+    padding: 0px;
+  }
+  .loc_date_exp{
+    margin-top:10px;
+    display: flex;
+    flex-direction: column;
+    width:25%;
+  }
+  .job_description{
+    margin: auto;
+    width: 75%;
+  }
+  

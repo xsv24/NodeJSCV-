@@ -1,0 +1,27 @@
+.languages {
+	padding: 0 0 20px 0;
+	margin: auto;
+	display: flex;
+}
+
+.skill_star,
+.fill_skill_star {
+	float: right;
+	padding-left: 2px;
+	text-align: left;
+	color: #C7C9C9;
+}
+
+.fill_skill_star {
+	color: #1C8683;
+}
+
+.language_exp {
+	margin: auto;
+}
+
+#platform_images {
+	display: flex;
+	margin: auto;
+	padding-top: 50px;
+}

@@ -1,0 +1,31 @@
+{
+  "name": "nodejs_cv",
+  "version": "1.0.0",
+  "description": " Personal CV written in Node JS, MongoDB and HTML/CSS",
+  "main": "express.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xsv24/NodeJSCV.git"
+  },
+  "keywords": [
+    "Personal",
+    "CV",
+    "NodeJS"
+  ],
+  "author": "Thomas Pearson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xsv24/NodeJSCV/issues"
+  },
+  "homepage": "https://github.com/xsv24/NodeJSCV#readme",
+  "dependencies": {
+    "body-parser": "^1.18.1",
+    "ejs": "^2.5.7",
+    "express": "^4.15.4",
+    "mongodb": "^2.2.31",
+    "nodemailer": "^4.1.0"
+  }
+}
