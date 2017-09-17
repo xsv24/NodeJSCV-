@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/xsv24/NodeJSCV.git"
+    "url": "git+https://github.com/xsv24/NodeJSCV-.git"
   },
   "keywords": [
     "Personal",
@@ -18,9 +18,9 @@
   "author": "Thomas Pearson",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/xsv24/NodeJSCV/issues"
+    "url": "https://github.com/xsv24/NodeJSCV-/issues"
   },
-  "homepage": "https://github.com/xsv24/NodeJSCV#readme",
+  "homepage": "https://github.com/xsv24/NodeJSCV-#readme",
   "dependencies": {
     "body-parser": "^1.18.1",
     "ejs": "^2.5.7",
